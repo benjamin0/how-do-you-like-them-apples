@@ -1,0 +1,7 @@
+/.vagrant
+/.idea
+*.pyc
+howdoyoulike/howdoyoulike/secrets.json
+Vagrantfile
+ngrok.exe
+howdoyoulike/db.sqlite3
